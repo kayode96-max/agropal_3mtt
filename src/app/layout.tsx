@@ -6,6 +6,14 @@ import { AppProvider } from '@/components/app-provider';
 export const metadata: Metadata = {
   title: 'NaijaAgroConnect',
   description: 'Connecting Nigerian farmers with AI-powered solutions.',
+  icons: {
+    icon: [
+      {
+        url: '/favicon.svg',
+        type: 'image/svg+xml',
+      },
+    ],
+  },
 };
 
 export default function RootLayout({

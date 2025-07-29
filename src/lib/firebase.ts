@@ -5,15 +5,15 @@ import { getFirestore } from "firebase/firestore";
 // TODO: Add SDKs for Firebase products that you want to use
 // https://firebase.google.com/docs/web/setup#available-libraries
 
-// Your web app's Firebase configuration
+// Your web app's Firebase configuration using environment variables
 const firebaseConfig = {
-  projectId: "naijaagroconnect",
-  appId: "1:753258882677:web:fe64b6a6989286b6ae7a3c",
-  storageBucket: "naijaagroconnect.firebasestorage.app",
-  apiKey: "AIzaSyDDTaqmqI3sGDt4GzrMhY-egHse2BmGWbQ",
-  authDomain: "naijaagroconnect.firebaseapp.com",
-  measurementId: "",
-  messagingSenderId: "753258882677",
+  projectId: process.env.NEXT_PUBLIC_FIREBASE_PROJECT_ID,
+  appId: process.env.NEXT_PUBLIC_FIREBASE_APP_ID,
+  storageBucket: process.env.NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET,
+  apiKey: process.env.NEXT_PUBLIC_FIREBASE_API_KEY,
+  authDomain: process.env.NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN,
+  measurementId: process.env.NEXT_PUBLIC_FIREBASE_MEASUREMENT_ID,
+  messagingSenderId: process.env.NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID,
 };
 
 // Initialize Firebase

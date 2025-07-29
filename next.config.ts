@@ -24,6 +24,12 @@ const nextConfig: NextConfig = {
         hostname: 'openweathermap.org',
         port: '',
         pathname: '/img/wn/**',
+      },
+      {
+        protocol: 'https',
+        hostname: 'farmpays.com',
+        port: '',
+        pathname: '/**',
       }
     ],
   },
