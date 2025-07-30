@@ -12,7 +12,7 @@ export default function SiteHeader() {
       <header className="sticky top-0 z-10 flex h-16 w-full items-center justify-between border-b bg-background px-4 md:hidden">
         <Link href="/dashboard" className="flex items-center gap-2">
             <Sprout className="h-6 w-6 text-primary" />
-            <span className="font-bold text-lg font-headline">NaijaAgroConnect</span>
+            <span className="font-bold text-lg font-headline">Agropal</span>
         </Link>
         <div className="flex items-center gap-2">
           <ThemeToggle />
@@ -26,7 +26,7 @@ export default function SiteHeader() {
             <Link href="/dashboard" className="flex items-center gap-2">
                 <Sprout className="h-8 w-8 text-primary" />
                 <span className="font-bold text-xl font-headline group-data-[collapsible=icon]:hidden">
-                NaijaAgroConnect
+                Agropal
                 </span>
             </Link>
             </SidebarHeader>

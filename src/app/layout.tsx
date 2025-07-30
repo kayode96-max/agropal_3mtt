@@ -4,7 +4,7 @@ import { cn } from '@/lib/utils';
 import { AppProvider } from '@/components/app-provider';
 
 export const metadata: Metadata = {
-  title: 'NaijaAgroConnect',
+  title: 'Agropal',
   description: 'Connecting Nigerian farmers with AI-powered solutions.',
   icons: {
     icon: [

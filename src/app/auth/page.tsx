@@ -18,7 +18,7 @@ export default function AuthenticationPage() {
         <div className="relative z-20 flex items-center text-lg font-medium">
           <Link href="/" className="flex items-center gap-2 text-white hover:text-green-200 transition-colors">
             <Sprout className="h-6 w-6" />
-            NaijaAgroConnect
+            Agropal
           </Link>
         </div>
         <div className="relative z-20 mt-auto">
@@ -34,7 +34,7 @@ export default function AuthenticationPage() {
         <div className="mx-auto flex w-full flex-col justify-center space-y-6 sm:w-[400px]">
           <div className="flex flex-col space-y-2 text-center">
             <h1 className="text-3xl font-bold tracking-tight text-primary">
-              Welcome to NaijaAgroConnect
+              Welcome to Agropal
             </h1>
             <p className="text-sm text-muted-foreground">
               Join thousands of Nigerian farmers improving their harvests with AI

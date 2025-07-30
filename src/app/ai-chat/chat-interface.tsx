@@ -84,7 +84,7 @@ export function ChatInterface() {
     requestMicPermission();
 
     // Greet the user on component mount
-    const greeting = "Welcome to NaijaAgroConnect! My name is Agbè̩ anko. How can I help you today?";
+    const greeting = "Welcome to Agropal! My name is Agbè̩ anko. How can I help you today?";
     setMessages([{ sender: "ai", text: greeting }]);
     speak(greeting);
     

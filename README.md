@@ -1,14 +1,14 @@
-# 🌱 NaijaAgroConnect
+# 🌱 Agropal
 
 **Empowering Nigerian Farmers with AI-Powered Agricultural Solutions**
 
-NaijaAgroConnect is a comprehensive digital platform designed to transform agricultural practices across Nigeria through the power of artificial intelligence. Built with modern web technologies and multilingual support, it bridges the gap between traditional farming and digital innovation.
+Agropal is a comprehensive digital platform designed to transform agricultural practices across Nigeria through the power of artificial intelligence. Built with modern web technologies and multilingual support, it bridges the gap between traditional farming and digital innovation.
 
-![NaijaAgroConnect Banner](https://placehold.co/1200x300/558B2F/FFFFFF/png?text=NaijaAgroConnect+-+AI+for+Nigerian+Farmers)
+![Agropal Banner](https://placehold.co/1200x300/558B2F/FFFFFF/png?text=Agropal+-+AI+for+Nigerian+Farmers)
 
 ## 🎯 Project Overview
 
-NaijaAgroConnect addresses critical challenges faced by Nigerian farmers by providing:
+Agropal addresses critical challenges faced by Nigerian farmers by providing:
 
 - **AI-powered crop diagnosis** from plant photos
 - **Multilingual voice assistance** in English, Yoruba, Hausa, Igbo, and Pidgin
@@ -297,8 +297,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact & Support
 
-- **Email**: support@naijaagroconnect.com
-- **Website**: [https://naijaagroconnect.com](https://naijaagroconnect.com)
+- **Email**: support@Agropal.com
+- **Website**: [https://Agropal.com](https://Agropal.com)
 - **GitHub Issues**: [Report bugs and request features](https://github.com/kayode96-max/agropal_3mtt/issues)
 - **Community Forum**: Join discussions on our platform
 
@@ -314,6 +314,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Built with ❤️ for Nigerian farmers by the NaijaAgroConnect team**
+**Built with ❤️ for Nigerian farmers by the Agropal team**
 
 *Empowering agriculture through technology, one farm at a time.*
